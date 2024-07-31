@@ -38,9 +38,6 @@ clear
 
 # 6. WORDPRESS
 echo "Install PHPMyAdmin --------------------------"
-
-cd /tmp
-wget https://wordpress.org/latest.tar.gz
 apt install phpmyadmin -y
 clear
 
